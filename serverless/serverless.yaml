@@ -26,4 +26,4 @@ resources: # CloudFormation template syntax
         BucketEncryption:
           ServerSideEncryptionConfiguration:
             - ServerSideEncryptionByDefault:
-                SSEAlgorithm: AES256
+                SSEAlgorithm: AES256 
